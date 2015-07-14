@@ -4,8 +4,6 @@ Software/ReadMe v1.0 (July 13, 2015)
 
 This utility converts source files to binary files for Microsoft Excel and other applications.
 
-The software is freeware. The C# .NET source code is not yet offered but it may be soon after some research is done on the legal considerations and other details related to posting DLLs related to this project.
-
 ###Usage:
 	NebulaXConvert.exe "FromFile.xml" "ToFile.xls"
 
@@ -59,4 +57,4 @@ Please report issues to the GitHub [issue tracker](https://github.com/TonyGravag
 
 If you like the software, a note would be appreciated @TonyGravagno.
 
-This software is freeware, provided under the MIT license. See LICENSE.txt for terms.
+This software is provided under the MIT license. See LICENSE.txt for terms.
